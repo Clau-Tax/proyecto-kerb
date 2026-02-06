@@ -1,3 +1,6 @@
+        console.log("JS conectado");
+        
+        
         const form = document.getElementById("formNombre");
         const input = document.getElementById("nombreInput");
         const lista = document.getElementById("listaNombres");
